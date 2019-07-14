@@ -65,10 +65,6 @@
           </compilerArgs>
         </configuration>
       </plugin>
-      <plugins>
-        
-  </plugins>
-
       <plugin>
         <!-- Unit tests are run by surefire. -->
         <!-- Classes under src/test/java called *Test are included automatically. -->
